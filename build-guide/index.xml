@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PAPRa – PAPRa Build Guide (Jan 31 2021 Edition)</title><link>https://tetrabiodistributed.github.io/papra/build-guide/</link><description>Recent content in PAPRa Build Guide (Jan 31 2021 Edition) on PAPRa</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/papra/build-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Build-Guide: How to build a PAPRa Fan Box (v3)</title><link>https://tetrabiodistributed.github.io/papra/build-guide/fan-box/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/papra/build-guide/fan-box/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PAPRa – PAPRa Build Guide (Jan 31 2021 Edition)</title><link>https://tetrabiodistributed.github.io/papra/build-guide/</link><description>Recent content in PAPRa Build Guide (Jan 31 2021 Edition) on PAPRa</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/papra/build-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Build-Guide: How to build a PAPRa Fan Box (v1)</title><link>https://tetrabiodistributed.github.io/papra/build-guide/fan-box-v1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/papra/build-guide/fan-box-v1/</guid><description>
 &lt;div class="sect1">
 &lt;h2 id="_quick_synopsis">Quick Synopsis&lt;/h2>
 &lt;div class="sectionbody">
@@ -15,7 +15,7 @@
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/photos/i-B4JzQNk/0/X3/i-B4JzQNk-X3.jpg" alt="i B4JzQNk X3"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-6bLNC5f/0/00bd23da/X2/DSC09680-X2.jpg" alt="DSC09680 X2"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -50,28 +50,28 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000112-2%20Fan%20Box.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000112-2%20Fan%20Box.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Fan%20Box.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Fan%20Box.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">The Bottom Plate&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000110-1%20Fan%20Box%20Base%20Plate.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000110-1%20Fan%20Box%20Base%20Plate.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Base%20Plate.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Base%20Plate.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">UniFrame Cover&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">The Filter Box (holds the filter)&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000116-1%20Fan%20Box%20UniFrameCover.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000116-1%20Fan%20Box%20UniFrameCover.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Tetra%20UniFram.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Tetra%20UniFram.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">The Funnel (attaches hose to fan box)&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000113-2%20Fan%20Box%20Funnel%20Single.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/main/STLs/fan_box/P-TET-000113-2%20Fan%20Box%20Funnel%20Single.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/SingleFunnel.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/SingleFunnel.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -102,19 +102,494 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Box Gasket&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/main/Gaskets/P-TET-000111-1%20Fan%20Box%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/main/Gaskets/P-TET-000111-1%20Fan%20Box%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f84fa02edfc247a236c2cf34c395c1230df5827e/Gaskets/BoxGasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f84fa02edfc247a236c2cf34c395c1230df5827e/Gaskets/BoxGasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Gasket&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/main/Gaskets/P-TET-000114-0%20Fan%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/main/Gaskets/P-TET-000114-0%20Fan%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f84fa02edfc247a236c2cf34c395c1230df5827e/Gaskets/FanGasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f84fa02edfc247a236c2cf34c395c1230df5827e/Gaskets/FanGasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Filter Gasket&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/main/Gaskets/P-TET-000115-0%20Filter%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/main/Gaskets/P-TET-000115-0%20Filter%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f84fa02edfc247a236c2cf34c395c1230df5827e/Gaskets/FilterGasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f84fa02edfc247a236c2cf34c395c1230df5827e/Gaskets/FilterGasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_bill_of_materials">Bill Of Materials&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>These are components that need to be purchased. Prices fluctuate, and so are not included here. Alternative versions can be sourced, and we welcome edits for tested alternatives.&lt;/p>
+&lt;/div>
+&lt;table class="tableblock frame-all grid-all stretch">
+&lt;caption class="title">Table 3. Table Bill Of Materials (BOM)&lt;/caption>
+&lt;colgroup>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;/colgroup>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Count&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Description&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">URL&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Number in Package&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">UTUO Brushless Radial Blower Dual Ball Bearing High Speed 12V DC Centrifugal Fan with XH-2.5 Plug 120mm by 120mm by 32mm 4.72x4.72x1.26 inch&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B01CSNEO2G/" class="bare">https://www.amazon.com/gp/product/B01CSNEO2G/&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">2&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">TOTOT 30 Pack 5.5mm x 2.1mm 3 Pin Female DC Power Jack Panel Mount Screw Nut Kit DC Socket Electrical Plug&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B077YC457J/" class="bare">https://www.amazon.com/gp/product/B077YC457J/&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">30&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Donner 60CM Guitar Pedal Power Cable Cord 10-Pack&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B078XRM3W4/" class="bare">https://www.amazon.com/gp/product/B078XRM3W4/&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">10&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">8&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">binifiMux 150pcs M4 x 0.7mm 304 Stainless Steel Hex Nuts Bright Finish&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B07J6C1XTD/" class="bare">https://www.amazon.com/gp/product/B07J6C1XTD/&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">150&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">8&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">50 Pcs M4-0.70 x 20mm Button Head Socket Cap Bolts Screws, 18-8 Stainless Steel, Allen Hex Drive, ISO 7380, by Fullerkreg,Come in a Plastic Case&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/M4-0-7X-Available-Stainless-Machine-Fastener/dp/B081JYXLK7/" class="bare">https://www.amazon.com/M4-0-7X-Available-Stainless-Machine-Fastener/dp/B081JYXLK7/&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">50&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">6&amp;#34;&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">20 awg Solid wire kit Electrical wire Cable 7 colors 23ft each spools 20 gauge UL1007 Tinned Copper Hook up wire kit breadboard wire for DIY&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/Electrical-colors-spools-UL1007-breadboard/dp/B083DNGSPV/" class="bare">https://www.amazon.com/Electrical-colors-spools-UL1007-breadboard/dp/B083DNGSPV/&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">276&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Heat shrink connector covering (optional)&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">2mm Craft Foam&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/Foam-Sheet-X18-2mm-White-pack/dp/B004M5QGBQ" class="bare">https://www.amazon.com/Foam-Sheet-X18-2mm-White-pack/dp/B004M5QGBQ&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">10&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">7&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Frost King EPDM Rubber Self-Stick Weatherseal Tape, D-Section,&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/Frost-King-Self-Stick-Weatherseal-D-Section/dp/B00FQ5A5RM" class="bare">https://www.amazon.com/Frost-King-Self-Stick-Weatherseal-D-Section/dp/B00FQ5A5RM&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">204&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_recommended_tools">Recommended Tools&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>These tools are recommended. URLs are for tools purchased and used in the building of the prototypes:&lt;/p>
+&lt;/div>
+&lt;table class="tableblock frame-all grid-all stretch">
+&lt;caption class="title">Table 4. Table Tool List&lt;/caption>
+&lt;colgroup>
+&lt;col style="width: 50%;"/>
+&lt;col style="width: 50%;"/>
+&lt;/colgroup>
+&lt;thead>
+&lt;tr>
+&lt;th class="tableblock halign-left valign-top">Description&lt;/th>
+&lt;th class="tableblock halign-left valign-top">URL&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Iwiss SN-48B Pin Crimping Tool&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B00OMMZ502" class="bare">https://www.amazon.com/gp/product/B00OMMZ502&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">4-3/4 In. Bent Long Nose Pliers&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.harborfreight.com/4-34-in-bent-long-nose-pliers-63819.html" class="bare">https://www.harborfreight.com/4-34-in-bent-long-nose-pliers-63819.html&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Soldering iron&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B01MD12DYT" class="bare">https://www.amazon.com/gp/product/B01MD12DYT&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">A hex screwdriver for the m4 screws&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B007ICWAJC" class="bare">https://www.amazon.com/gp/product/B007ICWAJC&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Flush cutter&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.harborfreight.com/micro-flush-cutter-90708.html" class="bare">https://www.harborfreight.com/micro-flush-cutter-90708.html&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">X-acto knife&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/Xacto-X3201-N0-Precision-Knife/dp/B00004Z2TQ" class="bare">https://www.amazon.com/Xacto-X3201-N0-Precision-Knife/dp/B00004Z2TQ&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">3D Printer (note the size of the print bed for the fan box)&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer" class="bare">https://www.creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">A deburring tool&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B01L2XR4P2" class="bare">https://www.amazon.com/gp/product/B01L2XR4P2&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">#0 Phillips head screwdriver&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.homedepot.com/p/Husky-8-in-1-Screwdriver-with-LED-Light-232360016/301959976" class="bare">https://www.homedepot.com/p/Husky-8-in-1-Screwdriver-with-LED-Light-232360016/301959976&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">CPAP hose cleaner (for maintenance)&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/Cleaning-DreamStation-Diameter-Stainless-Cleaner/dp/B08HLQV2VK/" class="bare">https://www.amazon.com/Cleaning-DreamStation-Diameter-Stainless-Cleaner/dp/B08HLQV2VK/&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_build_steps">Build Steps&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="olist arabic">
+&lt;ol class="arabic">
+&lt;li>
+&lt;p>Printed Fan box&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Printed Filter box&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Printed Bottom Plate&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Single-Spout Funnel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dryer tape&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Fan Gasket&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Box Gasket&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Filter Gasket&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>An x-acto knife&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The deburring tool&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hex screw driver&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HEPA Type-A Filter&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hex screws&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hex nuts&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_prepare_the_wires">Prepare the wires&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>You will need to prepare the wires to connect the fan to power. This socket does not require tinned wires, but can use solid wires.&lt;/p>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_cut_the_wires_to_size">Cut the wires to size.&lt;/h4>
+&lt;div class="paragraph">
+&lt;p>To do so, you will need to cut them down to their lengths (our build used ~3 inch/10 cm lengths). Both the red and black solid wire should be basically the same dimensions: ~3 inches/~10 in length, 0.5 cm insulation stripped from both ends.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_attach_remaining_red_and_black_solid_wires_to_the_power_socket">Attach remaining red and black solid wires to the power socket&lt;/h4>
+&lt;div class="paragraph">
+&lt;p>How to build the power socket for the fan box with solid wires:&lt;/p>
+&lt;/div>
+&lt;div class="videoblock">
+&lt;div class="content">
+&lt;video src="https://photos.smugmug.com/photos/i-mfGN68v/0/1920/i-mfGN68v-1920.mp4" controls="">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Final prepared wiring looks like:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/photos/i-jmpfcwg/0/X2/i-jmpfcwg-X2.jpg" alt="i jmpfcwg X2"/>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_remove_printed_supports">Remove printed supports&lt;/h4>
+&lt;div class="paragraph">
+&lt;p>Removing print supports can be done with a chisel, an x-acto knife, the bent-nose pliers, or your fingernails (which can be painful if something slips).&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Here are some ways in which we’ve removed supports:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-5FtPxmM/0/9fb59b8f/X2/DSC09696-X2.jpg" alt="DSC09696 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-bt5vLXV/0/76fed790/X2/DSC09705-X2.jpg" alt="DSC09705 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-49tz7x8/0/e93842e6/X2/DSC09724-X2.jpg" alt="DSC09724 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-SMbj9LG/0/94b6efc2/X2/DSC09689-X2.jpg" alt="DSC09689 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>On the fan box, make sure to remove the supports for where the nuts will be placed, as well as where the gasket will be placed (near Darryl’s thumb in this picture):
+&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-f4JgVh9/0/473f4b8d/X2/DSC09715-X2.jpg" alt="DSC09715 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_assembly">Assembly&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Place the assmbled wires into the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-cGb78gg/0/3a858826/X2/DSC09731-X2.jpg" alt="DSC09731 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Insert the Fan Gasket into the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FTZ8mPt/0/4317f9da/X2/DSC09748-X2.jpg" alt="DSC09748 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Tape the Funnel to the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-DXhmmkW/2/398b4321/X2/IMG_5065_HEIC-X2.jpg" alt="IMG 5065 HEIC X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Connect the fan controller, red wire to red wire, black wire to black wire:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-vTrTx82/1/fc7cf3fe/X2/IMG_5066_HEIC-X2.jpg" alt="IMG 5066 HEIC X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Insert the taped funnel into the Fan Box. This step may require some jostling until the funnel is flush with the box; also note that the fan has been flipped relative to the previous image, such that the fan side is facing down in this photo:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-z9vdbVz/0/94e141af/X2/DSC09762-X2.jpg" alt="DSC09762 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Make sure to trim and remove any tape that may block the fan&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-xRv88vW/0/d851212d/X2/DSC09765-X2.jpg" alt="DSC09765 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the Box Gasket into the Bottom Plate:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-b9fzD55/0/b91bc73c/X2/DSC09770-X2.jpg" alt="DSC09770 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place nuts into the slots in the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-C7K3ZBb/0/55e98f0e/X2/DSC09771-X2.jpg" alt="DSC09771 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Screw the Bottom Plate into the Fan Box. The Bottom Plate may bow out a bit:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-CZ3HbXK/0/6eb46616/X2/DSC09772-X2.jpg" alt="DSC09772 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Once done with all four screws, flip the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-nGMDGCn/0/7f1dfb46/X2/DSC09776-X2.jpg" alt="DSC09776 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the Filter Gasket on the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qtH247G/0/7d620c5b/X2/DSC09778-X2.jpg" alt="DSC09778 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the filter into the Filter Box, ripple side up. The gasket on the side of the filter may move a bit, which is fine, as that snugness indicates a good fit:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-HvGS7m7/0/b44bbbc9/X2/DSC09779-X2.jpg" alt="DSC09779 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Flip the Filter Box and screw it into the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wXx4TF5/0/a62d4e50/X2/DSC09784-X2.jpg" alt="DSC09784 X2"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Congratulations! You’ve now built a Tetra PAPRa Fan Box! The Guitar Pedal Power cable can now be plugged into the M12 unit to power the device.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_questions">Questions&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="_how_frequently_should_i_change_the_filter">How frequently should I change the filter?&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Changing the filter depends on how much you use the device. If you’re using the device where there are a lot of particulates in the air (such as a construction site or a woodshop), you may want to change every month or so. If you’re using the device where there are less particulates, every two to three months should be fine. HEPA filters just get dirtier and eventually the fan will have a hard time pulling air through the filter, and the filter should be swapped before that happens.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Build-Guide: How to build a PAPRa Fan Box (v3)</title><link>https://tetrabiodistributed.github.io/papra/build-guide/fan-box-v3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/papra/build-guide/fan-box-v3/</guid><description>
+&lt;div class="sect1">
+&lt;h2 id="_quick_synopsis">Quick Synopsis&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>The Tetra Powered Air Purified Respirator requires that the air be purified; this purification is accomplished by powering a fan to pull air through a filter and then pushing that purified air through a hose to a mask worn on the face. This section contains the instructions for building the box that holds the fan and filter.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_parts_required">Parts Required&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>This photo shows all the parts laid out for building this component:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-B4JzQNk/0/c734abd5/5K/_MMR0281-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-B4JzQNk/0/c734abd5/L/_MMR0281-L.jpg" alt=" MMR0281 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_3d_printed_parts">3D Printed Parts&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>These parts should be printed at 0.2 spacing. They should be oriented such that the large plates are closest to the build plate:&lt;/p>
+&lt;/div>
+&lt;table class="tableblock frame-all grid-all stretch">
+&lt;caption class="title">Table 1. Table Printed Parts&lt;/caption>
+&lt;colgroup>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;/colgroup>
+&lt;thead>
+&lt;tr>
+&lt;th class="tableblock halign-left valign-top">Part&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Quantity&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Material&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Supports required?&lt;/th>
+&lt;th class="tableblock halign-left valign-top">STL File Location&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">The Fan Box (holds the fan)&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000112-2%20Fan%20Box.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000112-2%20Fan%20Box.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">The Bottom Plate&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000110-1%20Fan%20Box%20Base%20Plate.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000110-1%20Fan%20Box%20Base%20Plate.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">UniFrame Cover&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000116-1%20Fan%20Box%20UniFrameCover.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000116-1%20Fan%20Box%20UniFrameCover.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">The Funnel (attaches hose to fan box)&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000113-2%20Fan%20Box%20Funnel%20Single.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/STLs/fan_box/P-TET-000113-2%20Fan%20Box%20Funnel%20Single.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_gaskets">Gaskets&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Gaskets should be cut from 2mm craft foam. Ideally, they should be cut by something such as Cricut (&lt;a href="https://www.cricut.com/" class="bare">https://www.cricut.com/&lt;/a>), but can also be cut using scissors or an Xacto knife so long as the templates are followed closely.&lt;/p>
+&lt;/div>
+&lt;table class="tableblock frame-all grid-all stretch">
+&lt;caption class="title">Table 2. Table Gaskets&lt;/caption>
+&lt;colgroup>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;/colgroup>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Part&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Quantity&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Material&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Pattern&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Box Gasket&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000111-1%20Fan%20Box%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000111-1%20Fan%20Box%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Gasket&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000114-0%20Fan%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000114-0%20Fan%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Filter Gasket&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000115-0%20Filter%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000115-0%20Filter%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Funnel Gasket&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000117-0%20Funnel%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/9c9eebc7c29308c5ddc6a99569f82c5193d0e1dd/Gaskets/P-TET-000117-0%20Funnel%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -124,7 +599,7 @@
 &lt;h2 id="_pcb">PCB&lt;/h2>
 &lt;div class="sectionbody">
 &lt;table class="tableblock frame-all grid-all stretch">
-&lt;caption class="title">Table 3. Table Gaskets&lt;/caption>
+&lt;caption class="title">Table 3. Table PCB’s&lt;/caption>
 &lt;colgroup>
 &lt;col style="width: 33.3333%;"/>
 &lt;col style="width: 33.3333%;"/>
@@ -291,200 +766,149 @@
 &lt;h2 id="_build_steps">Build Steps&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="sect2">
-&lt;h3 id="_parts_recommended_tools">Parts &amp;amp; recommended tools&lt;/h3>
-&lt;div class="olist arabic">
-&lt;ol class="arabic">
-&lt;li>
-&lt;p>Printed Fan box&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Printed Filter box&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Printed Bottom Plate&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Single-Spout Funnel&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Dryer tape&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Fan Gasket&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Box Gasket&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Filter Gasket&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>An x-acto knife&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>The deburring tool&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Hex screw driver&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>HEPA Type-A Filter&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Hex screws&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Hex nuts&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/div>
-&lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_prepare_the_wires">Prepare the wires&lt;/h3>
-&lt;div class="paragraph">
-&lt;p>You will need to prepare the wires to connect the fan to power. This socket does not require tinned wires, but can use solid wires.&lt;/p>
-&lt;/div>
-&lt;div class="sect3">
-&lt;h4 id="_cut_the_wires_to_size">Cut the wires to size.&lt;/h4>
-&lt;div class="paragraph">
-&lt;p>To do so, you will need to cut them down to their lengths (our build used ~3 inch/10 cm lengths). Both the red and black solid wire should be basically the same dimensions: ~3 inches/~10 in length, 0.5 cm insulation stripped from both ends.&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;div class="sect3">
-&lt;h4 id="_attach_remaining_red_and_black_solid_wires_to_the_power_socket">Attach remaining red and black solid wires to the power socket&lt;/h4>
-&lt;div class="paragraph">
-&lt;p>How to build the power socket for the fan box with solid wires:&lt;/p>
-&lt;/div>
-&lt;div class="videoblock">
-&lt;div class="content">
-&lt;video src="https://photos.smugmug.com/photos/i-mfGN68v/0/1920/i-mfGN68v-1920.mp4" controls="">
-Your browser does not support the video tag.
-&lt;/video>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Final prepared wiring looks like:&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/photos/i-jmpfcwg/0/X2/i-jmpfcwg-X2.jpg" alt="i jmpfcwg X2"/>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;div class="sect3">
-&lt;h4 id="_remove_printed_supports">Remove printed supports&lt;/h4>
+&lt;h3 id="_remove_printed_supports">Remove printed supports&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>Removing print supports can be done with a chisel, an x-acto knife, the bent-nose pliers, or your fingernails (which can be painful if something slips).&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Here are some ways in which we’ve removed supports:&lt;/p>
 &lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-hKCrqcG/0/1e482995/5K/_MMR0055-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-hKCrqcG/0/1e482995/L/_MMR0055-L.jpg" alt=" MMR0055 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-MvJGQs3/0/da0c9381/5K/_MMR0102-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-MvJGQs3/0/da0c9381/L/_MMR0102-L.jpg" alt=" MMR0102 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-tHmVtNK/0/1266b367/5K/_MMR0250-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-tHmVtNK/0/1266b367/L/_MMR0250-L.jpg" alt=" MMR0250 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-nMMPpFk/0/afe4828a/5K/_MMR0215-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-nMMPpFk/0/afe4828a/L/_MMR0215-L.jpg" alt=" MMR0215 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-33PcDdS/0/2d6a2c0d/5K/_MMR0298-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-33PcDdS/0/2d6a2c0d/L/_MMR0298-L.jpg" alt=" MMR0298 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-HTw8KXv/0/a8da3c3c/5K/_MMR0404-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-HTw8KXv/0/a8da3c3c/L/_MMR0404-L.jpg" alt=" MMR0404 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_assembly">Assembly&lt;/h3>
 &lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-5FtPxmM/0/9fb59b8f/X2/DSC09696-X2.jpg" alt="DSC09696 X2"/>&lt;/span>&lt;/p>
+&lt;p>Place the PAPRa PCB into the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-bt5vLXV/0/76fed790/X2/DSC09705-X2.jpg" alt="DSC09705 X2"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-49tz7x8/0/e93842e6/X2/DSC09724-X2.jpg" alt="DSC09724 X2"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/photos/i-nMMPpFk/0/X3/i-nMMPpFk-X3.jpg" alt="i nMMPpFk X3"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/photos/i-tHmVtNK/0/X3/i-tHmVtNK-X3.jpg" alt="i tHmVtNK X3"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>On the fan box, make sure to remove the supports for where the nuts will be placed, as well as where the gasket will be placed (near Darryl’s thumb in this picture):
-&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-f4JgVh9/0/473f4b8d/X2/DSC09715-X2.jpg" alt="DSC09715 X2"/>&lt;/span>&lt;/p>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-NxVfvHh/0/beb80987/5K/_MMR0309-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-NxVfvHh/0/beb80987/L/_MMR0309-L.jpg" alt=" MMR0309 L"/>&lt;/a>
 &lt;/div>
 &lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-wxSVjFT/0/8edce1f2/5K/_MMR0313-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-wxSVjFT/0/8edce1f2/L/_MMR0313-L.jpg" alt=" MMR0313 L"/>&lt;/a>
 &lt;/div>
 &lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-hJHprfV/0/0d8218c0/5K/_MMR0316-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-hJHprfV/0/0d8218c0/L/_MMR0316-L.jpg" alt=" MMR0316 L"/>&lt;/a>
 &lt;/div>
-&lt;div class="sect1">
-&lt;h2 id="_assembly">Assembly&lt;/h2>
-&lt;div class="sectionbody">
-&lt;div class="paragraph">
-&lt;p>Place the assmbled wires into the Fan Box:&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-cGb78gg/0/3a858826/X2/DSC09731-X2.jpg" alt="DSC09731 X2"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Insert the Fan Gasket into the Fan Box:&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FTZ8mPt/0/4317f9da/X2/DSC09748-X2.jpg" alt="DSC09748 X2"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Tape the Funnel to the Fan Box:&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-DXhmmkW/2/398b4321/X2/IMG_5065_HEIC-X2.jpg" alt="IMG 5065 HEIC X2"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Connect the fan controller, red wire to red wire, black wire to black wire:&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-vTrTx82/1/fc7cf3fe/X2/IMG_5066_HEIC-X2.jpg" alt="IMG 5066 HEIC X2"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Insert the taped funnel into the Fan Box. This step may require some jostling until the funnel is flush with the box; also note that the fan has been flipped relative to the previous image, such that the fan side is facing down in this photo:&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-z9vdbVz/0/94e141af/X2/DSC09762-X2.jpg" alt="DSC09762 X2"/>&lt;/span>&lt;/p>
+&lt;p>Place &amp;amp; washer and tighten nut onto PAPRa Fan Box power jack:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-rGrspjK/0/27669958/5K/_MMR0318-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-rGrspjK/0/27669958/L/_MMR0318-L.jpg" alt=" MMR0318 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-Mj6ksFX/0/8664e5c4/5K/_MMR0320-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-Mj6ksFX/0/8664e5c4/L/_MMR0320-L.jpg" alt=" MMR0320 L"/>&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Make sure to trim and remove any tape that may block the fan&lt;/p>
+&lt;p>Insert the Funnel &amp;amp; Gasket into the Fan Box:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-Rf5thQR/0/25273083/5K/_MMR0379-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-Rf5thQR/0/25273083/L/_MMR0379-L.jpg" alt=" MMR0379 L"/>&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-xRv88vW/0/d851212d/X2/DSC09765-X2.jpg" alt="DSC09765 X2"/>&lt;/span>&lt;/p>
+&lt;p>Prepare tape around the Funnel:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-hNW4jgm/0/e716f3a0/5K/_MMR0387-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-hNW4jgm/0/e716f3a0/L/_MMR0387-L.jpg" alt=" MMR0387 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Insert the fan into the Fan Box and tape the fan to the Funnel, sealing any potential leaks between the fan and funnel. Make sure to trim and remove any tape that may block the fan:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-rXpR6M6/0/a7b581bc/5K/_MMR0388-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-rXpR6M6/0/a7b581bc/L/_MMR0388-L.jpg" alt=" MMR0388 L"/>&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Place the Box Gasket into the Bottom Plate:&lt;/p>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-b9fzD55/0/b91bc73c/X2/DSC09770-X2.jpg" alt="DSC09770 X2"/>&lt;/span>&lt;/p>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-XDWmFRT/0/c6ea139a/5K/_MMR0405-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-XDWmFRT/0/c6ea139a/L/_MMR0405-L.jpg" alt=" MMR0405 L"/>&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place nuts into the slots in the Fan Box:&lt;/p>
+&lt;p>Place nuts into the slots in the Fan Box and Screw the Bottom Plate onto the Fan Box. The Bottom Plate may bow out a bit:&lt;/p>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-C7K3ZBb/0/55e98f0e/X2/DSC09771-X2.jpg" alt="DSC09771 X2"/>&lt;/span>&lt;/p>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-qRrvFLW/0/b769d899/5K/_MMR0413-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-qRrvFLW/0/b769d899/L/_MMR0413-L.jpg" alt=" MMR0413 L"/>&lt;/a>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>Screw the Bottom Plate into the Fan Box. The Bottom Plate may bow out a bit:&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-CZ3HbXK/0/6eb46616/X2/DSC09772-X2.jpg" alt="DSC09772 X2"/>&lt;/span>&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Once done with all four screws, flip the Fan Box:&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-nGMDGCn/0/7f1dfb46/X2/DSC09776-X2.jpg" alt="DSC09776 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Place the Filter Gasket on the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qtH247G/0/7d620c5b/X2/DSC09778-X2.jpg" alt="DSC09778 X2"/>&lt;/span>&lt;/p>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-kVpc2Js/0/d5d484ed/5K/_MMR0423-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-kVpc2Js/0/d5d484ed/L/_MMR0423-L.jpg" alt=" MMR0423 L"/>&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Place the filter into the Filter Box, ripple side up. The gasket on the side of the filter may move a bit, which is fine, as that snugness indicates a good fit:&lt;/p>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-HvGS7m7/0/b44bbbc9/X2/DSC09779-X2.jpg" alt="DSC09779 X2"/>&lt;/span>&lt;/p>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-bTWSqpb/0/1aaf909b/5K/_MMR0425-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-bTWSqpb/0/1aaf909b/L/_MMR0425-L.jpg" alt=" MMR0425 L"/>&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Flip the Filter Box and screw it into the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wXx4TF5/0/a62d4e50/X2/DSC09784-X2.jpg" alt="DSC09784 X2"/>&lt;/span>&lt;/p>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-Bnw6S7b/0/40d7784d/5K/_MMR0432-L.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Tetra-PAPRa-Build-Party-31-Jan-2021/i-Bnw6S7b/0/40d7784d/L/_MMR0432-L.jpg" alt=" MMR0432 L"/>&lt;/a>
+&lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Congratulations! You’ve now built a Tetra PAPRa Fan Box! The Guitar Pedal Power cable can now be plugged into the M12 unit to power the device.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wXx4TF5/0/a62d4e50/5K/DSC09784-5K.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wXx4TF5/0/a62d4e50/L/DSC09784-5K.jpg" alt="DSC09784 5K"/>&lt;/a>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/div>
