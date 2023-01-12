@@ -1,0 +1,235 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PAPRa – PAPRa Testing</title><link>https://tetrabiodistributed.github.io/papra/testing-guide/</link><description>Recent content in PAPRa Testing on PAPRa</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/papra/testing-guide/index.xml" rel="self" type="application/rss+xml"/><item><title>Testing-Guide: PAPRa N95 Testing Guide (March 2021 Edition)</title><link>https://tetrabiodistributed.github.io/papra/testing-guide/n95_testing_march_2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/papra/testing-guide/n95_testing_march_2021/</guid><description>
+&lt;div class="sect1">
+&lt;h2 id="_quick_synopsis">Quick Synopsis&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>This page will walk you through how we established that the PAPRa can offer N95 levels of protection on a mask when worn by someone with a beard, and N99 levels of protection by the fan box itself. These tests are by no means exhaustive; far more testing is needed to ensure that these results can be achieved consistently, and the testing should be done in a more controlled environment than what we have done.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>WARNING:* We offer no warranty, explicit or implied, that any device that you create will achieve similar standards of filtration. We are currently working to determine the best path forward for individuals who make their PAPRs to test them.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_parts_needed">Parts Needed&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>In addition to the PAPR to be tested, we tested using a &lt;a href="https://tsi.com/products/respirator-fit-testers/portacount-respirator-fit-tester-8038/">Portacount&lt;/a> with a hose assembly as depicted below:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-N5dwqjg/0/a18cf5f4/5K/_MMR0431-5K.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-N5dwqjg/0/a18cf5f4/L/_MMR0431-L.jpg" alt=" MMR0431 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;strong>NOTE:&lt;/strong> The Portacount is effective at showing the isolation of airborne particles, but not at identifying the sizes of particles measured, and did not have a setting for an N100 level of protection. When testing for N95 levels of protection, the Portacount has a range from 0 to 200+, with 100 passing, while N99 testing has a range from 0 to 2000+, with 500 passing. All tests depicted in this document were done using online testing, waiting several seconds to ensure that the readings were stable before recording them.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_testing_procedure">Testing Procedure&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Prior to testing, a saline solution was aerosolized to ensure that there would be a sufficient quantity of airborne particles to demonstrate effective filtration.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-h594S5t/0/ab2e7757/5K/_MMR0404-5K.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-h594S5t/0/ab2e7757/L/_MMR0404-L.jpg" alt=" MMR0404 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-vJ5rXgW/0/ea8ea9ed/5K/_MMR0405-5K.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-vJ5rXgW/0/ea8ea9ed/L/_MMR0405-L.jpg" alt=" MMR0405 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-rwBPpgs/0/e1b9d481/5K/_MMR0414-5K.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-rwBPpgs/0/e1b9d481/L/_MMR0414-L.jpg" alt=" MMR0414 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>The Portacount measurement hose was attached to the port in the hose array depicted below:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-jjzRxbT/0/5267278f/5K/_MMR0424-5K.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-jjzRxbT/0/5267278f/L/_MMR0424-L.jpg" alt=" MMR0424 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>The other hose, the blue hose, is left exposed to the air to provide a sample of the ambient air to the Portacount.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Here are the videos of the various tests performed:&lt;/p>
+&lt;/div>
+&lt;div class="videoblock">
+&lt;div class="content">
+&lt;video src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-Kq8Lp8G/0/37bf76f3/1920/IMG_5191-1920.mp4" controls="">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Testing the fit of the mask itself:&lt;/p>
+&lt;/div>
+&lt;div class="videoblock">
+&lt;div class="content">
+&lt;video src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-QkqNg2x/0/764af364/1920/IMG_5189-1920.mp4" controls="">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Testing the efficacy of various HEPA filters (takeaway: make sure you have good filters from &lt;a href="https://germguardian.com">germguardian.com&lt;/a>, as specified in the BOM, or something similar):&lt;/p>
+&lt;/div>
+&lt;div class="videoblock">
+&lt;div class="content">
+&lt;video src="https://photos.smugmug.com/Tetra-Testing/PAPRa-Build-13-March-2021/i-GgKRbwK/0/a835042a/1920/IMG_5188-1920.mp4" controls="">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>As you can see, while these tests are promising, they are not yet completely rigorous. We are currently working on a full PAPR testing system, and will likely also reach out to third party testing labs for further verification of individual units.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Testing-Guide: PAPRa Pressure Testing (October 2022)</title><link>https://tetrabiodistributed.github.io/papra/testing-guide/pressure_testing_oct_2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/papra/testing-guide/pressure_testing_oct_2022/</guid><description>
+&lt;div class="sect1">
+&lt;h2 id="_quick_synopsis">Quick Synopsis&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>After many months of testing, we have determined we do not have the equipment to ensure that we have the minimum 4CFM flow. According to the fan specification for the CUI-154, the fan can output 33 CFM of air at peak, but that number does not account for the configuration we’re using in the PAPRA.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>What we’re going to do instead is to make sure that we’re always maintaining positive pressure inside the system.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_testing_configuration">Testing Configuration&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>To ensure the unit operates at positive pressure, we’ll use a pressure tap. The tap consists of two parts, the collar to be printed in a flexible material like Ninjaflex and the tap itself printed in a stiff medium, like PLA or PETG.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_parts_required">Parts Required&lt;/h2>
+&lt;div class="sectionbody">
+&lt;table class="tableblock frame-all grid-all stretch">
+&lt;caption class="title">Table 1. Table Printed Parts&lt;/caption>
+&lt;colgroup>
+&lt;col style="width: 16.6666%;"/>
+&lt;col style="width: 16.6666%;"/>
+&lt;col style="width: 16.6666%;"/>
+&lt;col style="width: 16.6666%;"/>
+&lt;col style="width: 16.6666%;"/>
+&lt;col style="width: 16.667%;"/>
+&lt;/colgroup>
+&lt;thead>
+&lt;tr>
+&lt;th class="tableblock halign-left valign-top">Part&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Part Number&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Quantity&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Material&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Supports required?&lt;/th>
+&lt;th class="tableblock halign-left valign-top">STL File Location&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Pressure Tap&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000156&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/80f9c96bf428a5c192f72a76c2c27213bab7424e/STLs/pressure_tap/P-TET-000156-Tap.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/80f9c96bf428a5c192f72a76c2c27213bab7424e/STLs/pressure_tap/P-TET-000156-Tap.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Collar&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000157&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Ninjaflex/TPU&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/80f9c96bf428a5c192f72a76c2c27213bab7424e/STLs/pressure_tap/P-TET-000157-Collar.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/80f9c96bf428a5c192f72a76c2c27213bab7424e/STLs/pressure_tap/P-TET-000157-Collar.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table class="tableblock frame-all grid-all stretch">
+&lt;caption class="title">Table 2. Table Vendor Bill Of Materials (BOM)&lt;/caption>
+&lt;colgroup>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;col style="width: 25%;"/>
+&lt;/colgroup>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Count&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Description&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">URL&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Number in Package&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Risepro Manometer&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B01680C4C2" class="bare">https://www.amazon.com/gp/product/B01680C4C2&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Pressure Tap (alternate)&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.mcmaster.com/5346K752/" class="bare">https://www.mcmaster.com/5346K752/&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="paragraph">
+&lt;p>When assembled, the tap looks like:&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-wz9JKcB/0/d959350f/L/PXL_20221102_150947923-L.jpg" alt="PXL 20221102 150947923 L"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>The Risepro manometer listed in the BOM provides a pressure tap; the second listing for the pressure tap is an alternative tap source if a different manometer is to be used.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>With that tap inline and using a pressure sensor, so long as the pressure never changes sign, then the system is closed.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;a class="image" href="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-vFgrNbC/0/dad2bc36/5K/PXL_20221102_151627512-5K.jpg">&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-vFgrNbC/0/dad2bc36/L/PXL_20221102_151627512-L.jpg" alt="PXL 20221102 151627512 L"/>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>When the June 2022 build is running at full power and with the pressure tap joined to the negative input port on the manometer, then the pressure never changes sign to positive pressure. In the above image, the system is on, and recording -2.3 cm H2O. According to the Performance Curve for the fan model, shown below, that 2.3 cm H2O puts the flow around 30 CFM, far in excess of the necessary 4CFM.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-SVcKHdZ/0/a756149e/S/screenshot_from_2022-11-02_08-54-43-S.png" alt="screenshot from 2022 11 02 08 54 43 S"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>However, when running at the least power available on the potentiometer, then the pressure drops to between 0.1 and 0.4 cm H2O. In our testing, a strong inhalation can be about 1.0-1.5 cm H2O, so the device needs to be kept at at least 50% speed to ensure constant positive pressure inside the system.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_conclusion">Conclusion&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>If pressure switches to positive when the wearer breathes heavily, air would be pulled into the system rather than always leaving it. As such, one possible path of development is to ensure that the pressure sign does not flip inside the system, rather than worrying about particular flow specifications to meet. This requirement could be achieved by connecting a pressure monitor to the potentiometer controlling fan speed.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>If a good seal has been achieved with the mask, then such pressure changes would be air pulled from the filter. However, if there is not a good seal (for instance, if the wearer wears a beard), then the pressure would more likely be from air pulled in through the beard, and that would be a cause for concern around providing protection for the wearer.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>This test does not ensure that there is no leak in the system, and that the box is meeting P95/P100 standards. That test would require a &lt;a href="https://tsi.com/products/respirator-fit-testers/portacount-respirator-fit-tester-8038/">Portacount&lt;/a> for verification, and this model did pass such a verification.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>This test demonstrates that putting a pressure measurement system in the mask to ensure constant positive pressure, with warnings or some other feedback if that pressure is not met, would be an ideal improvement for the device.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;strong>WARNING&lt;/strong>: While the model we have built passes at a P100 level, we cannot validate that a model that we did not build and test would also pass. Please do NOT assume that an unvalidated PAPR offers the appropriate level of protection, and we do NOT assume any liability for using this product under any condition.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
