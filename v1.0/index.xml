@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PAPRa – PAPRa Build Guide (June 2022 Edition)</title><link>https://tetrabiodistributed.github.io/papra/v1.0/</link><description>Recent content in PAPRa Build Guide (June 2022 Edition) on PAPRa</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/papra/v1.0/index.xml" rel="self" type="application/rss+xml"/><item><title>V1.0: How to build a PAPRa Fan Box</title><link>https://tetrabiodistributed.github.io/papra/v1.0/fan-box/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/papra/v1.0/fan-box/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PAPRa – PAPRa Build Guide (June 2022 Edition)</title><link>https://tetrabiodistributed.github.io/papra/v1.0/</link><description>Recent content in PAPRa Build Guide (June 2022 Edition) on PAPRa</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/papra/v1.0/index.xml" rel="self" type="application/rss+xml"/><item><title>V1.0: How to build a PAPRa Fan Box (96mm)</title><link>https://tetrabiodistributed.github.io/papra/v1.0/fan-box/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/papra/v1.0/fan-box/</guid><description>
 &lt;div class="sect1">
 &lt;h2 id="_quick_synopsis">Quick Synopsis&lt;/h2>
 &lt;div class="sectionbody">
@@ -65,23 +65,23 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No (Can have some in the nut pocket)&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000140_MOLLE_Base.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000140_MOLLE_Base.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000140%20Base%20Sanyo.st" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000140%20Base%20Sanyo.st&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Filter Interface&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000141&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000158&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No (Can have some in the nut pocket)&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000141_Filter_Interface.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000141_Filter_Interface.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000158%20Stealth%20Filter%20Interface%20Sanyo.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000158%20Stealth%20Filter%20Interface%20Sanyo.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Filter Frame&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000142&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000159&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000142_Filter_Frame.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000142_Filter_Frame.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000159%20Stealth%20Filter%20Frame%20Sanyo.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000159%20Stealth%20Filter%20Frame%20Sanyo.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Weather Guard&lt;/p>&lt;/td>
@@ -89,7 +89,7 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000143_Weather_Guard.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000143_Weather_Guard.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000159%20Stealth%20Filter%20Frame%20Sanyo.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000159%20Stealth%20Filter%20Frame%20Sanyo.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Outlet Spout&lt;/p>&lt;/td>
@@ -97,7 +97,7 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000144_Fan_Outlet_Spout.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000144_Fan_Outlet_Spout.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000144%20Spout.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000144%20Spout.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Outlet Spacer&lt;/p>&lt;/td>
@@ -105,23 +105,31 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000145_Fan_Outlet_Spacer.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000145_Fan_Outlet_Spacer.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000145%20Spacer.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000145%20Spacer.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Outlet Interface&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000152&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000152_Fan_Outlet_Interface.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000152_Fan_Outlet_Interface.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000152%20Spout%20Interface.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000152%20Spout%20Interface.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Spout ring&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000191&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000191%20Spout%20Ring.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000191%20Spout%20Ring.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">MOLLE Strap&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000153&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Yes&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000153_MOLLE_Strap.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000153_MOLLE_Strap.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000153%20MOLLE%20Strap.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000153%20MOLLE%20Strap.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">MOLLE Catch&lt;/p>&lt;/td>
@@ -129,7 +137,15 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000154_MOLLE_Catch.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/STLs/fan_box/Klein%20Tools%20Filter%2096mm%20fan%20box/P-TET-000154_MOLLE_Catch.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000154%20MOLLE%20Catch.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000154%20MOLLE%20Catch.stl&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">MOLLE Spacer&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000193&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000193%20MOLLE%20Spacer.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/STLs/fan_box/96mm%20Stealth%20Parts/P-TET-000193%20MOLLE%20Spacer.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -163,35 +179,35 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000146&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000146_Base_Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000146_Base_Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000146%2096mm%20Base%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000146%2096mm%20Base%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Gasket&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000147&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000147_Fan_Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000147_Fan_Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Filter Gasket&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000148&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000148_Filter_Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000148_Filter_Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Outlet Gasket&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000149&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000149_Outlet_Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000149_Outlet_Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Outlet Gasket 2&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000149&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Outlet Spout Interface&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000152&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000149_Outlet_Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/ae647b7905ae6b9a0845f862daef6b815cd362d1/Gaskets/Klein%20Tools%20Filter%20PAPRa/P-TET-000149_Outlet_Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000152%2096mm%20Fan%20Outlet%20Spout%20Interface.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000152%2096mm%20Fan%20Outlet%20Spout%20Interface.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -275,12 +291,6 @@
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">13&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">M4 square nuts&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Dryer Tape&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;/td>
 &lt;/tr>
@@ -541,12 +551,38 @@ player.attachTo(playerElement);
 &lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Qfmx7sF/0/DP7vHZkLRhH39M5wxNphdR835HdSzzQBV5NSP3wMx/M/DSCF0239-M.jpg" alt="DSCF0239 M"/>
 &lt;/div>
 &lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-TQ42RQq/0/DcXjhtRDSpckHJk9qrF6fRrZRxvHfGCkx3q5kJPPH/L/DSCF0240-L.jpg" alt="DSCF0240 L"/>
+&lt;/div>
+&lt;/div>
 &lt;div class="paragraph">
 &lt;p>You may need to use a tool to get the edges of the gasket down:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
 &lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-jSnHsHm/0/e6b53e23/L/_MMR5622-L.jpg" alt=" MMR5622 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the Fan Outlet Gasket (P-TET-000) inside the Fan Outlet Spout raised edge (P-TET-000144):&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-pmZkdwQ/0/DrJnd4V8GGwNTzpjbrR3tHP77VdC9LD53CZ2ndDCC/M/DSCF0243-M.jpg" alt="DSCF0243 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-dWpMnbT/0/434gLKXMv93SqMwq77srhQMKXmCjXLmDtwqKJxBD/M/DSCF0245-M.jpg" alt="DSCF0245 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the gasket and outlet spout into the fan box:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-CnsrXWf/0/FbCTMB6DRDGbSCgRB3rB7gd6ChfJVzLwwMm7pWVD4/M/DSCF0247-M.jpg" alt="DSCF0247 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -595,32 +631,11 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the Fan Outlet Gasket (P-TET-000) inside the Fan Outlet Spout raised edge (P-TET-000144):&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-pmZkdwQ/0/DrJnd4V8GGwNTzpjbrR3tHP77VdC9LD53CZ2ndDCC/M/DSCF0243-M.jpg" alt="DSCF0243 M"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-dWpMnbT/0/434gLKXMv93SqMwq77srhQMKXmCjXLmDtwqKJxBD/M/DSCF0245-M.jpg" alt="DSCF0245 M"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
 &lt;p>Place the Fan Outlet Gasket (P-TET-000) on the outside of the fan outlet:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
 &lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-6c8MPHc/0/c99e6d89/L/_MMR5668-L.jpg" alt=" MMR5668 L"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Place the gasket and outlet spout into the fan box:&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-CnsrXWf/0/FbCTMB6DRDGbSCgRB3rB7gd6ChfJVzLwwMm7pWVD4/M/DSCF0247-M.jpg" alt="DSCF0247 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
