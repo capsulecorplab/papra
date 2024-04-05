@@ -266,6 +266,36 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/Replacement-Respirators-Klein-Tools-60245/dp/B08W1TPSZM/" class="bare">https://www.amazon.com/Replacement-Respirators-Klein-Tools-60245/dp/B08W1TPSZM/&lt;/a>&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">2&lt;/p>&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">13&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">M4 16mm screws&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">13&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">M4 square nuts&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Dryer Tape&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">BNC 20 gauge wire stays&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Stealth Filters&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/STEALTH-Respirator-Filters-Woodworking-Replacement/dp/B09H52LGGW">Stealth Filters&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;/div>
@@ -336,6 +366,37 @@
 &lt;div class="sect1">
 &lt;h2 id="_build_steps">Build Steps&lt;/h2>
 &lt;div class="sectionbody">
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_preparing_the_parts">Preparing the parts&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Cut the Gaskets Carefully.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Qf7QcQv/0/Ff6LtQM2CwVc5WjpfM4KcpJTCtjL9k6h4Rs4vD9bC/M/DSCF0198-M.jpg" alt="DSCF0198 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-frjjVjM/0/Pz6FnHhxQvqnX5kj2NFxrQjPcwSJmCP5TRxXhSML/M/DSCF0202-M.jpg" alt="DSCF0202 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Cut the tape into small piece’s&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-qkCPrxz/0/ChSdb5bzpwwkLH6FZ7nDSVjH3mCdFGWQWhXxXj3nX/M/DSCF0208-M.jpg" alt="DSCF0208 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-5LpCZNZ/0/8GRWhGdt5g4M52ZrPDHtDg27CcLsFxBk76cLDhmS/M/DSCF0211-M.jpg" alt="DSCF0211 M"/>
+&lt;/div>
+&lt;/div>
 &lt;div class="sect2">
 &lt;h3 id="_bnc_connection">BNC Connection&lt;/h3>
 &lt;div class="paragraph">
@@ -473,7 +534,15 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-jDZh39X/0/c51d439d/L/_MMR5620-L.jpg" alt=" MMR5620 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-kGpRHbS/0/Fd5jZLZrR3Xspm65swsZjWSWbpQCX6DnRqkDfpST7/M/DSCF0235-M.jpg" alt="DSCF0235 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Push the Gasket carefully into the box.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Qfmx7sF/0/DP7vHZkLRhH39M5wxNphdR835HdSzzQBV5NSP3wMx/M/DSCF0239-M.jpg" alt="DSCF0239 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -489,7 +558,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-LXngnTD/0/3c6bacdc/L/_MMR5628-L.jpg" alt=" MMR5628 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-XFWrxSZ/0/8qpCp5kqk8mwdXhmg9QGNJvLmzm28Fg4WhdtXJ7N/M/DSCF0214-M.jpg" alt="DSCF0214 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -497,7 +566,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-kFg8VMS/0/e0a1c71d/L/_MMR5629-L.jpg" alt=" MMR5629 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-JJMffrM/0/CdBGnBbNnqTb4RNBP2rQqQQMfd2W8N6Ph9MhsGHKH/M/DSCF0215-M.jpg" alt="DSCF0215 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -505,7 +574,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-VNB3KJV/0/285f0bb7/L/_MMR5631-L.jpg" alt=" MMR5631 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-HTRcGSs/0/DQqXfTk34B6qPCvNJrbSShD3SfFD44ZQbSHZ2psdr/M/DSCF0216-M.jpg" alt="DSCF0216 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -513,7 +582,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-vt57Zdn/0/1bd6b233/L/_MMR5632-L.jpg" alt=" MMR5632 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-vMzn7x4/0/Cbm8RMgXXGzCxB8svWxL9NHkqjMHRCFBZ9b4jg45V/M/DSCF0217-M.jpg" alt="DSCF0217 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -521,17 +590,12 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-zDnFr5D/0/eae5309d/L/_MMR5635-L.jpg" alt=" MMR5635 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-fqXLrcp/0/FdtnDwNN8C3w5bWGjxvdbJJBvc4hZh26XjgD8rZBs/M/DSCF0233-M.jpg" alt="DSCF0233 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-8F9dP9T/0/33345e89/L/_MMR5637-L.jpg" alt=" MMR5637 L"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-5Z23jfW/0/80712b28/L/_MMR5649-L.jpg" alt=" MMR5649 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Gc4x4sW/0/DbHJXf8g7PRvxLDr9WRQWdHXpXrkKjVDkbfx85nGr/M/DSCF0234-M.jpg" alt="DSCF0234 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -539,7 +603,12 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-4tT6MHD/0/6e3efb77/L/_MMR5658-L.jpg" alt=" MMR5658 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-pmZkdwQ/0/DrJnd4V8GGwNTzpjbrR3tHP77VdC9LD53CZ2ndDCC/M/DSCF0243-M.jpg" alt="DSCF0243 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-dWpMnbT/0/434gLKXMv93SqMwq77srhQMKXmCjXLmDtwqKJxBD/M/DSCF0245-M.jpg" alt="DSCF0245 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -555,7 +624,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-z99KPWN/0/cd3401df/L/_MMR5662-L.jpg" alt=" MMR5662 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-CnsrXWf/0/FbCTMB6DRDGbSCgRB3rB7gd6ChfJVzLwwMm7pWVD4/M/DSCF0247-M.jpg" alt="DSCF0247 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -563,7 +632,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-GLnxGFn/0/b0a47c21/L/_MMR5669-L.jpg" alt=" MMR5669 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-rn4CtmQ/0/CgCS9nGJBgxz9kjRNVTPVj4sMZCh38dSVvTMzNjH2/M/DSCF0249-M.jpg" alt="DSCF0249 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -571,23 +640,15 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-RkSGQNM/0/5937fd96/L/_MMR5673-L.jpg" alt=" MMR5673 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-mXdpc9V/0/FNXrk46kx8GTtqJ4BMtjd3TLwbmsvR97x4jJqDZ7v/M/DSCF0252-M.jpg" alt="DSCF0252 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the fan into the box, holding the gasket in place:&lt;/p>
+&lt;p>Place the washer in place&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-5vzBbnm/0/a78d2025/L/_MMR5674-L.jpg" alt=" MMR5674 L"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Pull the BNC connector in place:&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-x8nCVXt/0/0890c514/L/_MMR5683-L.jpg" alt=" MMR5683 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-mL4xVzD/0/DknVMbJHfGZ6BwzZ8vhLCNkJTvt9tRWn9Dj9TGzvD/M/DSCF0254-M.jpg" alt="DSCF0254 M"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
@@ -599,16 +660,53 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Then tighten with a wrench:&lt;/p>
+&lt;p>Place the nut and Then tighten with a wrench:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-ZWvtPfL/0/4bc6bd0f/L/_MMR5690-L.jpg" alt=" MMR5690 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-J67bsg7/0/469bmf2tDsMFr57k7P8ZFSg7SS6GWVFr5nCwp4qm/M/DSCF0256-M.jpg" alt="DSCF0256 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-3DW8njB/0/FHRkmPvNcDb4QN4KNV5SXk5gkSd2RxVc3z4gLrCfR/M/DSCF0259-M.jpg" alt="DSCF0259 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the fan into the box, holding the gasket in place:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-9CJvJtp/0/V9H8GK3jjnz35sGvcgg2jJNHrwR28Ls55T66XhQt/M/DSCF0265-M.jpg" alt="DSCF0265 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Push the wires in to the fan box.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-nBsgcCr/0/DQNkp93sNw9wzjvZjJbNcWnw55bd7S3xw7jP9x6sd/M/DSCF0275-M.jpg" alt="DSCF0275 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Pull the BNC connector in place:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-x8nCVXt/0/0890c514/L/_MMR5683-L.jpg" alt=" MMR5683 L"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
 &lt;h3 id="_put_the_filter_interface_on_the_box">Put the Filter Interface on the Box&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Place the Fan Gasket (P-TET-000147) on the Fan box.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Bc4gFvj/0/NLswnpsDscTKsspKGXN8vQ3TgW32MH3Nt5j9vwrc/M/DSCF0279-M.jpg" alt="DSCF0279 M"/>
+&lt;/div>
+&lt;/div>
 &lt;div class="paragraph">
 &lt;p>Place four square nuts into the Filter Interface (P-TET-000141):&lt;/p>
 &lt;/div>
