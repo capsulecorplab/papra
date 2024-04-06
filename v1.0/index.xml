@@ -193,14 +193,14 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000148&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/db2500507c2c03987185a34bd57795aa45caed02/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000148%2096mm%20Filter%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/db2500507c2c03987185a34bd57795aa45caed02/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000148%2096mm%20Filter%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Outlet Gasket&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">P-TET-000149&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Craft Foam&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/f77c5bc3c5f0d8fadfdf2757c59a09a8cd5e584b/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000147%2096mm%20Fan%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/db2500507c2c03987185a34bd57795aa45caed02/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000149%2096mm%20Outlet%20Gasket.svg" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/db2500507c2c03987185a34bd57795aa45caed02/Gaskets/96mm%20Stealth%20Sanyo%20PAPRa/P-TET-000149%2096mm%20Outlet%20Gasket.svg&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Fan Outlet Spout Interface&lt;/p>&lt;/td>
@@ -236,8 +236,8 @@
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">CUI CBM-9795338-154 (or the 168 model for more flow and less battery life)&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.digikey.com/en/products/detail/cui-devices/CBM-979533B-154/7623158" class="bare">https://www.digikey.com/en/products/detail/cui-devices/CBM-979533B-154/7623158&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Sanyo Denki 9BMB12F201&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://octopart.com/9bmb12f201-sanyo+denki-24320259" class="bare">https://octopart.com/9bmb12f201-sanyo+denki-24320259&lt;/a>&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -245,24 +245,6 @@
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">20 American Wire Gauge (awg) BNC cable&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.jameco.com/z/205-523-Steren-Electronics-Cable-Assembly-RG58-U-36-Bnc-To-Bnc-50-Ohm_11404.html" class="bare">https://www.jameco.com/z/205-523-Steren-Electronics-Cable-Assembly-RG58-U-36-Bnc-To-Bnc-50-Ohm_11404.html&lt;/a>&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">8&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">M4x20mm Button Head Torx Screws&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.mcmaster.com/90910A577/" class="bare">https://www.mcmaster.com/90910A577/&lt;/a>&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">50&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">4&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">M4x30mm Button Head Torx Screws&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.mcmaster.com/90910A580/" class="bare">https://www.mcmaster.com/90910A580/&lt;/a>&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">50&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">12&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">M4 Cap Nuts&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.mcmaster.com/97258A102/" class="bare">https://www.mcmaster.com/97258A102/&lt;/a>&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">50&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
@@ -273,14 +255,8 @@
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">BNC Cable Jack Connector&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.digikey.com/en/products/detail/112732/ACX2268-ND/3995595?WT.z_slp_buy=amphenol_bnc-connectors" class="bare">https://www.digikey.com/en/products/detail/112732/ACX2268-ND/3995595?WT.z_slp_buy=amphenol_bnc-connectors&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://octopart.com/112517-amphenol+rf-50123148" class="bare">https://octopart.com/112517-amphenol+rf-50123148&lt;/a>&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">2&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Klein Tools p100 filters&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/Replacement-Respirators-Klein-Tools-60245/dp/B08W1TPSZM/" class="bare">https://www.amazon.com/Replacement-Respirators-Klein-Tools-60245/dp/B08W1TPSZM/&lt;/a>&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">2&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">13&lt;/p>&lt;/td>
@@ -295,16 +271,16 @@
 &lt;td class="tableblock halign-left valign-top">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">BNC 20 gauge wire stays&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.jameco.com/z/205-523-Steren-Electronics-Cable-Assembly-RG58-U-36-Bnc-To-Bnc-50-Ohm_11404.html" class="bare">https://www.jameco.com/z/205-523-Steren-Electronics-Cable-Assembly-RG58-U-36-Bnc-To-Bnc-50-Ohm_11404.html&lt;/a>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Stealth Filters&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/STEALTH-Respirator-Filters-Woodworking-Replacement/dp/B09H52LGGW">Stealth Filters&lt;/a>&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">2&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -378,7 +354,7 @@
 &lt;h2 id="_preparing_the_parts">Preparing the parts&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>Cut the Gaskets Carefully.&lt;/p>
+&lt;p>Cut out the Gaskets Carefully.&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
@@ -525,7 +501,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the waterproof seal around the edge of the BNC:&lt;/p>
+&lt;p>Place the waterproof seal around the edge of the BNC jack:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
@@ -534,57 +510,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_put_the_fan_into_the_box">Put the Fan into the Box&lt;/h3>
-&lt;div class="paragraph">
-&lt;p>Place the bottom gasket (P-TET-000146) into the fan box (P-TET-000140):&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-kGpRHbS/0/Fd5jZLZrR3Xspm65swsZjWSWbpQCX6DnRqkDfpST7/M/DSCF0235-M.jpg" alt="DSCF0235 M"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Push the Gasket carefully into the box.&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Qfmx7sF/0/DP7vHZkLRhH39M5wxNphdR835HdSzzQBV5NSP3wMx/M/DSCF0239-M.jpg" alt="DSCF0239 M"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-TQ42RQq/0/DcXjhtRDSpckHJk9qrF6fRrZRxvHfGCkx3q5kJPPH/L/DSCF0240-L.jpg" alt="DSCF0240 L"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>You may need to use a tool to get the edges of the gasket down:&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-jSnHsHm/0/e6b53e23/L/_MMR5622-L.jpg" alt=" MMR5622 L"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Place the Fan Outlet Gasket (P-TET-000) inside the Fan Outlet Spout raised edge (P-TET-000144):&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-pmZkdwQ/0/DrJnd4V8GGwNTzpjbrR3tHP77VdC9LD53CZ2ndDCC/M/DSCF0243-M.jpg" alt="DSCF0243 M"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-dWpMnbT/0/434gLKXMv93SqMwq77srhQMKXmCjXLmDtwqKJxBD/M/DSCF0245-M.jpg" alt="DSCF0245 M"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Place the gasket and outlet spout into the fan box:&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-CnsrXWf/0/FbCTMB6DRDGbSCgRB3rB7gd6ChfJVzLwwMm7pWVD4/M/DSCF0247-M.jpg" alt="DSCF0247 M"/>
-&lt;/div>
-&lt;/div>
+&lt;h3 id="_build_fan_box_assembly">Build Fan Box Assembly&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>Place the Fan Outlet Spacer (P-TET-000145) into the fan:&lt;/p>
 &lt;/div>
@@ -618,7 +544,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Be sure to cover all of the gaps with dryer tape:&lt;/p>
+&lt;p>Cover all of the air gaps with dryer tape:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
@@ -631,23 +557,54 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the Fan Outlet Gasket (P-TET-000) on the outside of the fan outlet:&lt;/p>
+&lt;p>Place the base gasket (P-TET-000146) carefullyinto the fan box (P-TET-000140):&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-6c8MPHc/0/c99e6d89/L/_MMR5668-L.jpg" alt=" MMR5668 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-kGpRHbS/0/Fd5jZLZrR3Xspm65swsZjWSWbpQCX6DnRqkDfpST7/M/DSCF0235-M.jpg" alt="DSCF0235 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Qfmx7sF/0/DP7vHZkLRhH39M5wxNphdR835HdSzzQBV5NSP3wMx/M/DSCF0239-M.jpg" alt="DSCF0239 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-TQ42RQq/0/DcXjhtRDSpckHJk9qrF6fRrZRxvHfGCkx3q5kJPPH/L/DSCF0240-L.jpg" alt="DSCF0240 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the BNC connector into the slot in the fan box:&lt;/p>
+&lt;p>Place the Fan Outlet Gasket (P-TET-000) inside the Fan Outlet Spout raised edge (P-TET-000144):&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-dWpMnbT/0/434gLKXMv93SqMwq77srhQMKXmCjXLmDtwqKJxBD/M/DSCF0245-M.jpg" alt="DSCF0245 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the fan outlet spout (with gasket) into the fan box:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-CnsrXWf/0/FbCTMB6DRDGbSCgRB3rB7gd6ChfJVzLwwMm7pWVD4/M/DSCF0247-M.jpg" alt="DSCF0247 M"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the BNC jack into the fan box:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
 &lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-rn4CtmQ/0/CgCS9nGJBgxz9kjRNVTPVj4sMZCh38dSVvTMzNjH2/M/DSCF0249-M.jpg" alt="DSCF0249 M"/>
 &lt;/div>
 &lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-ZspPwbZ/0/DKn6cfJVBqShzr9VLCzJnk7XMHd6q7zLxwnHHKTGv/L/DSCF0251-L.jpg" alt="DSCF0251 L"/>
+&lt;/div>
+&lt;/div>
 &lt;div class="paragraph">
-&lt;p>Make sure to seat the BNC into the hexagonal space properly:&lt;/p>
+&lt;p>Make sure the BNC jack is seated in the hexagonal space:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
@@ -655,28 +612,33 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the washer in place&lt;/p>
+&lt;p>Place the washer around the BNC jack:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
 &lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-mL4xVzD/0/DknVMbJHfGZ6BwzZ8vhLCNkJTvt9tRWn9Dj9TGzvD/M/DSCF0254-M.jpg" alt="DSCF0254 M"/>
 &lt;/div>
 &lt;/div>
-&lt;div class="paragraph">
-&lt;p>Finger tighten the hex nut in place:&lt;/p>
-&lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-xxrF3kW/0/10bc0bcb/L/_MMR5686-L.jpg" alt=" MMR5686 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-5xjZnm4/0/D2WMmkZc83mBcnqvL6WNc39dDw9vkhJW8VNXbNcxR/L/DSCF0255-L.jpg" alt="DSCF0255 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the nut and Then tighten with a wrench:&lt;/p>
+&lt;p>Place and the finger tighten hex nut on top of the washer and BNC jack:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-J67bsg7/0/469bmf2tDsMFr57k7P8ZFSg7SS6GWVFr5nCwp4qm/M/DSCF0256-M.jpg" alt="DSCF0256 M"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-J67bsg7/0/FVC8qNCRbP4tf2FBJNfPqqvkmgFZPfcR9ZVt9MF6W/L/DSCF0256-L.jpg" alt="DSCF0256 L"/>
 &lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-DDCwkwR/0/FRbjKXCc9SSfhD4fF6SzcNJxzfcxBZzBGqLf3RbFh/L/DSCF0257-L.jpg" alt="DSCF0257 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Tighten the hex nut with a wrench:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
@@ -684,7 +646,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the fan into the box, holding the gasket in place:&lt;/p>
+&lt;p>Place the fan (with outlet spout) into the box, holding the gasket in place:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
@@ -699,143 +661,230 @@ player.attachTo(playerElement);
 &lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-nBsgcCr/0/DQNkp93sNw9wzjvZjJbNcWnw55bd7S3xw7jP9x6sd/M/DSCF0275-M.jpg" alt="DSCF0275 M"/>
 &lt;/div>
 &lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-W9L3qR6/0/qQD8cVwnGMPQkwjgTVg7FtNhTKkQzkxjZ7SMV7fK/L/DSCF0277-L.jpg" alt="DSCF0277 L"/>
+&lt;/div>
+&lt;/div>
 &lt;div class="paragraph">
-&lt;p>Pull the BNC connector in place:&lt;/p>
+&lt;p>Place the Fan Gasket (P-TET-000147) on the Fan box.&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-x8nCVXt/0/0890c514/L/_MMR5683-L.jpg" alt=" MMR5683 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-cz2G5vj/0/zRn5sfXfPhjff2bVpfMzPgbtMnG7GjR4MHK6hZ7r/L/DSCF0278-L.jpg" alt="DSCF0278 L"/>
 &lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_put_the_filter_interface_on_the_box">Put the Filter Interface on the Box&lt;/h3>
-&lt;div class="paragraph">
-&lt;p>Place the Fan Gasket (P-TET-000147) on the Fan box.&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
 &lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Bc4gFvj/0/NLswnpsDscTKsspKGXN8vQ3TgW32MH3Nt5j9vwrc/M/DSCF0279-M.jpg" alt="DSCF0279 M"/>
 &lt;/div>
 &lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_connect_filter_interface_to_fan_box_assembly">Connect Filter Interface to Fan Box Assembly&lt;/h3>
 &lt;div class="paragraph">
-&lt;p>Place four square nuts into the Filter Interface (P-TET-000141):&lt;/p>
+&lt;p>Place the filter interface on top of the fan box:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-sXBRD22/0/ef5292aa/L/_MMR5697-L.jpg" alt=" MMR5697 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-zjg72QH/0/MwNwWZLCCPbwK5rmzjxm25nKPJrmb4g7f2Wsv9Dg/L/DSCF0282-L.jpg" alt="DSCF0282 L"/>
 &lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Place four of the 20 mm m4 bolts into each of the holes in the Filter Interface:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-SfG2dNL/0/9e95ac9e/L/_MMR5763-L.jpg" alt=" MMR5763 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-QX8c3JD/0/8Wg57L6PLc9dgJ3dmgsxVMKHLRMt7xCq5vcRtdqT/L/DSCF0281-L.jpg" alt="DSCF0281 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the Fan Gasket (P-TET-000147) on to the Filter Interface:&lt;/p>
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-ghJT5NP/0/D2bwSSm7S4CvtBsm9sv9KvhkLw5MqTrC3GvMQ24bW/L/DSCF0284-L.jpg" alt="DSCF0284 L"/>&lt;/span>&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place 4x M4x16mm screws through the filter interface:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-krqQm9Q/0/ae97f144/L/_MMR5765-L.jpg" alt=" MMR5765 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-gMLqPJ3/0/nJkXLTGXnQ9NfCwdppx7D4ZbVSPPQWRXhgfZFF2v/L/DSCF0286-L.jpg" alt="DSCF0286 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-w7DbPCT/0/4DqLhGFxBPW2gHrptrj5WbbR8SKqNKVMns4C7Fjs/L/DSCF0290-L.jpg" alt="DSCF0290 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-5ptWSwM/0/FJkCdpdzG82wzN4MKCRHSXch9PbgdCxnxpq3xgJHq/L/DSCF0291-L.jpg" alt="DSCF0291 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Flip the Interface/Gasket combination and put it onto the Fan Box:&lt;/p>
+&lt;p>Secure the filter interface onto the fan box with 4x M4x16 screws using a hex screwdriver:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-bqVWvvp/0/2c713522/L/_MMR5766-L.jpg" alt=" MMR5766 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-gtcnp6j/0/BH456ZKKd2pWsJz5RKGh5KjgJCtfVbxvLgJV3hkg/L/DSCF0294-L.jpg" alt="DSCF0294 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-7r6jzvQ/0/DM7cDJcDDDKVJL2GGv6fF5rHqj889ZTvj5pmd8CDz/L/DSCF0295-L.jpg" alt="DSCF0295 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Screw all four corner bolts into place:&lt;/p>
+&lt;p>Option to use an impact drill:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-ngsFHXG/0/8481e577/L/_MMR5769-L.jpg" alt=" MMR5769 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-Bxn6VNW/0/CL3HDtcf6rGW8dXtmqLkx3tXmwTVFNDCbtx7B8kJj/L/DSCF0297-L.jpg" alt="DSCF0297 L"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_put_the_filters_into_the_filter_frame">Put the Filters Into the Filter Frame&lt;/h3>
+&lt;h3 id="_load_the_filters_into_the_filter_frame">Load the Filters into the Filter Frame&lt;/h3>
 &lt;div class="paragraph">
-&lt;p>Place filters into the Filter Box (P-TET-000142):&lt;/p>
+&lt;p>Place the Filter Gasket (P-TET-000148) onto the Filter interface (P-TET-000158):&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-k5FwmQc/0/c678f3b2/L/_MMR5740-L.jpg" alt=" MMR5740 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-vsJ8WbG/0/rT78Hv4t7VXqJcJrx4sxHDr7tPSTN5v7nGJTWTfL/L/DSCF0306-L.jpg" alt="DSCF0306 L"/>
 &lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Make sure you get the orientation correct, and don’t touch the filter directly.&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-xVwRprr/0/1ac49373/L/_MMR5742-L.jpg" alt=" MMR5742 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-rQDxMDn/0/49fHvrtvHpJ8Cc4QsRfrHpDtS98JTwWkJSd7zRw9/L/DSCF0307-L.jpg" alt="DSCF0307 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the four 30mm bolts into the Weather Guard (P-TET-000143) and then slide the Filter Box (P-TET-000142) in place:&lt;/p>
+&lt;p>Place the stealth filters into the filter gasket:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-4sXDf8Z/0/7e5840c1/L/_MMR5778-L.jpg" alt=" MMR5778 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-zNPmmWg/0/DGVS7xQQksWB4wWNGdGgX43jPVJ3MrVrT8qwG46Vr/L/DSCF0309-L.jpg" alt="DSCF0309 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-XHDBcKw/0/DThDsc9f4FMn2Sbkxcc38DdB82vxKQ62ZjLG3BRSq/L/DSCF0312-L.jpg" alt="DSCF0312 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Place the Filter Gasket in place (P-TET-000148):&lt;/p>
+&lt;p>Place an M4 square nut into the center space of the Filter Frame (P-TET-000159):&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-ngVz2wD/0/b2a68bde/L/_MMR5779-L.jpg" alt=" MMR5779 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-j9TfWtN/0/CLbKmt3nK9Ztv5MzgNdhpW4c6CfKFsc9Kkwx2VK3n/L/DSCF0313-L.jpg" alt="DSCF0313 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-j5WSW5q/0/DnGrqW2XTxbM9gW42jBP87d3DFJsqgkfdDFwxrLgv/L/DSCF0315-L.jpg" alt="DSCF0315 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-FnZPRmM/0/CsVsWStkKN3vBJNjKsm5GrGMFwDtSvqp7vRzGQ6CN/L/DSCF0317-L.jpg" alt="DSCF0317 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-3S4zpmX/0/C6XRxzkJsVsjXtKP4mThF5p9X6r2FqwT87n8nXXHn/L/DSCF0319-L.jpg" alt="DSCF0319 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Once again, flip the entire complex onto the currently assembled fan box and then screw the four corner bolts in place:&lt;/p>
+&lt;p>Fastening an M4x16 screw from the opposite side to hold the M4x16mm square nut in-place inside the Filter Frame using a hex screwdriver:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-3882jbB/0/24a817b5/L/_MMR5757-L.jpg" alt=" MMR5757 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-MFNVbbs/0/dF52mq85cRTFLH6Gpb8J6hNgtDrrbWgKMkTGtDdN/L/DSCF0320-L.jpg" alt="DSCF0320 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the Filter Frame (with M4 nut inside facing down) onto the Filter Interface.
+Make sure you get the orientation correct and avoiding direct contact with the filter:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-bGLs5w9/0/PnXH2SgmvtbbHkKcn289wK5xQLLRvD7x6XSG2N77/L/DSCF0324-L.jpg" alt="DSCF0324 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place 4x M4 nuts into the corner spaces of the Filter Interface, screwing in M4x16 screws in the process to secure the Filter Frame onto the Filter Interfac with a hex screwdriver:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-gsVxwBB/0/CBZPCb87Cp6LcXKMjDK4SsZKnRWBHVfbfXWdF26cx/L/DSCF0328-L.jpg" alt="DSCF0328 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-VFVsbdz/0/HzB762Vc7W6kntdnZkFDXpnzPQHKVR56vrNmhJWN/L/DSCF0330-L.jpg" alt="DSCF0330 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-XJwRLnf/0/Dq8dNCsP7h9cq7Ks3HswvpmxMkjZLVPff4ZLXhT9R/L/DSCF0334-L.jpg" alt="DSCF0334 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Remove the center-piece M4 scew:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-z9Jq8Sv/0/CnvNp7z6j3F3npwBFjRjhk64BNcVzFtCt3FZ9B54H/L/DSCF0338-L.jpg" alt="DSCF0338 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Secure the weather guard ontop of the fanbax assembly with an M4 screw using a hex screwdriver:&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-jckpTqd/0/DGKT7TjjSpRchnWddn9QvD3TTmt4mzPnrNz5KQQSW/L/DSCF0342-L.jpg" alt="DSCF0342 L"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_place_the_molle_brackets_in_place">Place the MOLLE brackets in place&lt;/h3>
+&lt;h3 id="_attach_fanbox_molle_strapped_backpack">Attach fanbox MOLLE strapped backpack&lt;/h3>
 &lt;div class="paragraph">
-&lt;p>Screw the MOLLE Strap (P-TET-000153) in place:&lt;/p>
+&lt;p>Insert the MOLLE Strap (P-TET-000153) into the MOLLE Spacer (P-TET-000193):&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-gPmqfHj/0/25fc9d3a/L/_MMR5796-L.jpg" alt=" MMR5796 L"/>
-&lt;/div>
-&lt;/div>
-&lt;div class="paragraph">
-&lt;p>Thread the prongs of the MOLLE Strap part through the straps:&lt;/p>
-&lt;/div>
-&lt;div class="imageblock">
-&lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-q6fHg9K/0/de9a3b14/L/_MMR5798-L.jpg" alt=" MMR5798 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-JpKQD8J/0/JJKpwZLtJHHfgqD2k9j544rZ3nnFVCbsrGqxrvbs/L/DSCF0344-L.jpg" alt="DSCF0344 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-fhxH8wH/0/2ecd3796/L/_MMR5803-L.jpg" alt=" MMR5803 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-bhVPhqK/0/Cn8mVxkW2Ztfv2Rq5BF6hXzCkk6QLwj2NLb9h74ZW/L/DSCF0345-L.jpg" alt="DSCF0345 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>Put the MOLLE Catch (P-TET-000154) in place:&lt;/p>
+&lt;p>Secure the MOLLE strap (with MOLLE spacer) onto fanbax with M4x16 screws with 2x M4x16 screws using a hex screwdriver:&lt;/p>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-2Sk8Shx/0/46b1e3cf/L/_MMR5804-L.jpg" alt=" MMR5804 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-8Dv98Nr/0/6FSXLTkmQKszsnNBk6rffSJCz7sB9G4CDHkmwg4B/L/DSCF0346-L.jpg" alt="DSCF0346 L"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-3bBT9mN/0/1257864a/L/_MMR5811-L.jpg" alt=" MMR5811 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-ccpgNt3/0/DsMgC49wXT6xM7qZxshPdrpHHfn4rQ2FwGFWSspvN/L/DSCF0349-L.jpg" alt="DSCF0349 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-ccpgNt3/0/DsMgC49wXT6xM7qZxshPdrpHHfn4rQ2FwGFWSspvN/L/DSCF0349-L.jpg" alt="DSCF0349 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Secure the MOLLE Catch (P-TET-000154) between the MOLLE strap and fanbox with 2x M4x16 screws using a hex screwdrivef&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-dt5wGBT/0/brDnNrCPhQtqCbk55FDQbGvccv3Npg9XQFqxvwBG/L/DSCF0356-L.jpg" alt="DSCF0356 L"/>
+&lt;/div>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-3MWGFLw/0/Cg6B4SQ4TvDmvLNRk3bfC7KnqmVFBqt5XP5fKZcGC/X3/DSCF0353-L.jpg" alt="DSCF0353 L"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -846,7 +895,7 @@ player.attachTo(playerElement);
 &lt;/div>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://photos.smugmug.com/Tetra-Testing/2022-Oct-10-Build/i-Pb3ccJM/0/55b4b783/L/_MMR5815-L.jpg" alt=" MMR5815 L"/>
+&lt;img src="https://photos.smugmug.com/Tetra-Testing/Makerfaire-2024-prep/i-VBNQgMQ/0/JCtxLtRxpqcSDdJqrXWxVHdkZN6QkP5SNx9XnN2z/X3/DSCF0360-X3.jpg" alt="DSCF0360 X3"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
