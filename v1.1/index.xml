@@ -1602,7 +1602,7 @@ we provide no warranty, implicit or explicit, that this device will work up to a
 &lt;/div>
 &lt;/div>
 &lt;div class="sect1">
-&lt;h2 id="_board_diagram">Board Diagram&lt;/h2>
+&lt;h2 id="_bill_of_materials">Bill of Materials&lt;/h2>
 &lt;div class="sectionbody">
 &lt;table class="tableblock frame-all grid-all stretch">
 &lt;caption class="title">Table 1. Parts needed for the PCBa&lt;/caption>
@@ -1825,6 +1825,34 @@ we provide no warranty, implicit or explicit, that this device will work up to a
 &lt;td class="tableblock halign-left valign-top">&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table class="tableblock frame-all grid-all stretch">
+&lt;caption class="title">Table 2. Table 3D Printed Tools&lt;/caption>
+&lt;colgroup>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;col style="width: 20%;"/>
+&lt;/colgroup>
+&lt;thead>
+&lt;tr>
+&lt;th class="tableblock halign-left valign-top">Part&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Quantity&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Material&lt;/th>
+&lt;th class="tableblock halign-left valign-top">Supports required?&lt;/th>
+&lt;th class="tableblock halign-left valign-top">STL File Location&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Tetra-PCB-jig-v3&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA/PETG&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/d0c51e8a21a43540b39c50ecf9295a17e224a93b/STLs/Tetra-PCB-jig-v3.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/d0c51e8a21a43540b39c50ecf9295a17e224a93b/STLs/Tetra-PCB-jig-v3.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
